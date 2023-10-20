@@ -4,7 +4,7 @@ layout: cover
 class: text-white
 coverAuthor: zyf722
 coverAuthorUrl: https://github.com/zyf722
-coverBackgroundUrl: https://images.unsplash.com/photo-1641765170634-4240fede7a17?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80s
+coverBackgroundUrl: ./assets/Cover.jpeg
 coverBackgroundSource: unsplash
 coverBackgroundSourceUrl: https://images.unsplash.com/photo-1641765170634-4240fede7a17?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 fonts:
@@ -63,7 +63,7 @@ to <span class="font-medium underline">gain access</span> to sensitive informati
 ---
 layout: figure-side
 figureCaption: The Art of Deception by Kevin D. Mitnick
-figureUrl: https://www.mitnicksecurity.com/hs-fs/hubfs/buy-deception.png?width=672&name=buy-deception.png
+figureUrl: ./assets/Deception.png
 ---
 
 # The Art of Deception
@@ -166,7 +166,7 @@ layout: 2x2-grid-header
 ---
 layout: figure-side
 figureCaption: Stanley Mark Rifkin
-figureUrl: https://www.social-engineer.org/wiki/archives/Hackers/hackers-Mark-Rifkin-Social-Engineer-furtherInfo_files/omc_02_00004_stanley_rifkin_2.jpg
+figureUrl: ./assets/Rifkin.jpg
 ---
 
 # Case Studies
@@ -216,7 +216,7 @@ class: "text-center"
 ---
 layout: figure-side
 figureCaption: White & Black Hat
-figureUrl: https://media.wired.com/photos/59271004cefba457b079c01e/master/w_2560%2Cc_limit/white-gray-black-hat-hacker-158788611.jpg
+figureUrl: ./assets/Hat.jpg
 ---
 
 # Ethical Considerations
