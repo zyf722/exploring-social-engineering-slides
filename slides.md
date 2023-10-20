@@ -18,7 +18,7 @@ info: |
 
   This slide is meant to be presented in **Computers in Society** class, and only for academic purposes.
 
-  Created by MaxAlex with [`slidev-theme-academic`](https://github.com/alexanderdavide/slidev-theme-academic) and [Slidev](https://sli.dev).
+  Created by [zyf722](https://github.com/zyf722) with [`slidev-theme-academic`](https://github.com/alexanderdavide/slidev-theme-academic) and [Slidev](https://sli.dev).
 transition: fade-out
 ---
 
